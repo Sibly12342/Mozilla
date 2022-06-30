@@ -1,5 +1,26 @@
 section{
     margin-bottom: 50px;
 }
-    
-
+#privacy{
+    background-color: #21123B;
+    background-image: url('https://www.mozilla.org/media/img/home/2018/bg-secondary.00e2994fcf64.svg'),url(' https://www.mozilla.org/media/img/home/2018/shield.b3969e107bae.svg');
+    color: #fff;
+    background-position: calc(50vw + 100px) 120px,50vw 0;
+    background-repeat: no-repeat;
+    padding: 100px 0 32px 5%;
+    text-align: left;
+    margin-bottom: 0;
+}
+#mozila-logo{
+    background-image:url('https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg') ;
+    background-repeat: no-repeat;
+    background-size: 40px,40px;
+    padding-top: 43px;
+}
+#privacy-notes{
+    text-decoration: none;
+    color: #fff;
+}
+#privacy-notes:hover{
+color: red !important;
+}
