@@ -12,7 +12,7 @@ section{
     margin-bottom: 0;
 }
 #mozila-logo{
-    background-image:url('https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg') ;
+    background: url('https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg') ;
     background-repeat: no-repeat;
     background-size: 40px,40px;
     padding-top: 43px;
